@@ -1,4 +1,3 @@
-# troiden3k.github.io
 <!dOCTYPE HTML>
 <html lang="ru">
 <head>
