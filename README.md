@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>SHOP</title>
-    <link>
+    <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
     <style>
         @import url('https://fants.googleapis.com/css2?family=Monsterrat:wath@200:500&display=swap');
 
@@ -66,11 +66,11 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img scr="https://funik.ru/wp-content/uploads/2018/12/d410fb7c45cce29c716a-768x507.jpg">
+        <img src="https://funik.ru/wp-content/uploads/2018/12/d410fb7c45cce29c716a-768x507.jpg">
         <p>Lorem ipsum dolor sit amet, consectuter adipisicing elit. Accusantium ipsum magni, molestias.</p>
             <button id="buy">Купить</button>
 
     </div>
-<script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
 </html>
